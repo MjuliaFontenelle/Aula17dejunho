@@ -1,0 +1,26 @@
+*{
+    text-decoration: none;
+    text-transform: none;
+}
+button{
+    background-color: blueviolet;
+    padding: 8 px;
+    background-color: brown;
+    
+}
+.divNome{
+    background-color: darkgray;
+}
+#fale{
+    color: blue;
+}
+
+.item{
+    border: 1px solid black;
+    border-radius: 5 px;
+    background-color: lightgray;
+    padding: 10px ;
+  
+
+
+}
